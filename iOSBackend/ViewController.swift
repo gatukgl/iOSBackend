@@ -8,13 +8,13 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class MainViewController: UIViewController {
 
+    @IBOutlet weak var customerName: UITextField!
+    @IBOutlet weak var role: UITextField!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+        fetchCustomers()
     }
-
-
 }
-
