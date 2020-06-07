@@ -5,6 +5,11 @@
         "firstname": "Gatuk",
         "lastname": "Chattanon",
         "role": "Software Engineer"
+      },
+      {
+        "firstname": "Yothin",
+        "lastname": "Muangsommuk",
+        "role": "Pythonista"
       }
     ]
   }
